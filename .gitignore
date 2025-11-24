@@ -1,0 +1,15 @@
+# --- Python / Backend ---
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# --- Node / Frontend ---
+node_modules/
+dist/
+.env.local
+
+# --- Systemowe / IDE ---
+.DS_Store
+.vscode/
+.idea/
